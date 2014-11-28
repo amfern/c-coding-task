@@ -6,7 +6,7 @@ gcc pstree.c statStuff.c pidTree.c pidTreePrint.c -o make-tree
 run the binary
 ./make-tree
 
-- Or -
+Or
 
 you can specify options
 ./make-tree --width=10 --depth=2
