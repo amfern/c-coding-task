@@ -6,11 +6,6 @@
 #include "statStuff.h"
 
 
-// void findStatStuff (int pid, statStuff *stuffList)
-// {
-
-// }
-
 int readStat (int pid, statStuff *s)
 {
     FILE *proc;
