@@ -6,16 +6,19 @@
 #include "pidTreePrint.h"
 
 
+// prints n indentations
 void printIndent(int indent)
 {
     printf("%*s", indent, " ");
 }
 
+// pretty print the statStuff struct 
 void printStat(statStuff *stat)
 {
     printf("%.*s (%d)", (int)strlen(stat -> comm) - 2, stat -> comm + 1, stat -> pid);
 }
 
+// prints pidNode with indentation
 void printNode(int indent, pidNode *node)
 {
     printIndent(indent);
@@ -25,6 +28,7 @@ void printNode(int indent, pidNode *node)
 
 void printBranch(int indent, int depth, pidNode *node, int indentWidth, int maxDepth);
 
+// prints all branches children 
 void printBranchChildren(int indent, int depth, struct pidNode **nodes, int indentWidth, int maxDepth)
 {
     if(maxDepth && depth > maxDepth) return;
@@ -35,13 +39,13 @@ void printBranchChildren(int indent, int depth, struct pidNode **nodes, int inde
     {
         i++;
 
-
         if (nodes[i] == NULL) break;
 
         printBranch(indent, depth, nodes[i], indentWidth, maxDepth);
     }
 }
 
+// prints the node and recursively prints their children
 void printBranch(int indent, int depth, pidNode *node, int indentWidth, int maxDepth)
 {
     printNode(indent, node);
@@ -49,6 +53,8 @@ void printBranch(int indent, int depth, pidNode *node, int indentWidth, int maxD
     printBranchChildren(indent + indentWidth, depth + 1, node -> children, indentWidth, maxDepth);
 }
 
+// prints tree view of nodes by indenting their children
+// can specify indentation width and maximum print depth
 void printTree(pidNode *node, int indentWidth, int maxDepth)
 {
     printBranchChildren(0, 0, node -> children, indentWidth, maxDepth);

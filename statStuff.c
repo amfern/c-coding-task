@@ -6,12 +6,12 @@
 #include "statStuff.h"
 
 
+// reads the stat file of specifided pid
 int readStat (int pid, statStuff *s)
 {
     FILE *proc;
     char buf[256];
     int ret;
-    // printf("%d\n", pid);
 
     sprintf(buf, "/proc/%d/stat", pid);
     proc = fopen(buf, "r");
@@ -24,6 +24,7 @@ int readStat (int pid, statStuff *s)
     return 4 == ret ? 0 : 1;
 }
 
+// lists all files in a dir
 int listDir (char path[], char *list[])
 {
     DIR *pathDir;
@@ -46,6 +47,7 @@ int listDir (char path[], char *list[])
     return 0;
 }
 
+// filters to return only numeric values in array
 void filterNumeric (char *strList[], int *numericList)
 {
     int i = -1;
@@ -63,6 +65,7 @@ void filterNumeric (char *strList[], int *numericList)
     }
 }
 
+// reads the stats file of pids and returns them in statStuff struct 
 void readStats (int pids[], statStuff *outStats)
 {
     int i = -1;
@@ -82,8 +85,7 @@ void readStats (int pids[], statStuff *outStats)
     }
 }
 
-// 2. traverse the statStuffs and pick only the one with existing parent 
-
+// reads all processes in the system and returns the m in statStuff structs
 int readAllStats (statStuff *pidStuffs)
 {
     char **procDirs = (char **)malloc(sizeof(char) * 5000);

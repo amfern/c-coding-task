@@ -5,6 +5,7 @@
 #include "pidTree.h"
 
 
+// gets all children of specific node by comparing their ppid's to node's pid
 void getPidChildren(int pid, statStuff *allStats, statStuff *childrenStats)
 {
     int i = -1;
@@ -20,16 +21,14 @@ void getPidChildren(int pid, statStuff *allStats, statStuff *childrenStats)
 
         ni++;
         childrenStats[ni] = allStats[i];
-
-        // printf("%d, ", childrenStats[ni].pid);
     }
 }
 
-void fillNodeChildren(pidNode *node, statStuff *allStats)
+// populates node.children and their children of children and so on
+void makeBranch(pidNode *node, statStuff *allStats)
 {
     int i = -1;
 
-    // printf("\n%d - ", node -> stat -> pid);
     statStuff *ppidStatChildren = (statStuff *)malloc(sizeof(statStuff) * 5000 );
     getPidChildren(node -> stat -> pid, allStats, ppidStatChildren);
 
@@ -44,16 +43,15 @@ void fillNodeChildren(pidNode *node, statStuff *allStats)
         nextNodeChild -> children = malloc(sizeof(pidNode) * 5000);
         nextNodeChild -> stat = &ppidStatChildren[i];
 
-        // printf("%d\n", nextNodeChild -> stat -> pid);
-
-        fillNodeChildren(nextNodeChild, allStats);
+        makeBranch(nextNodeChild, allStats);
     }
 }
 
+// makes tree of pidNodes
 void makeTree(statStuff *allStats, pidNode *outNode)
 {
     outNode -> stat = malloc(sizeof(statStuff));
     outNode -> children = malloc(sizeof(pidNode) * 5000);
 
-    fillNodeChildren(outNode, allStats);
+    makeBranch(outNode, allStats);
 }

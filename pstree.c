@@ -68,7 +68,6 @@ args parseInputArgs(int argc, char **argv)
 
 
 
-
 int main (int argc, char **argv)
 {
     statStuff *allStats = (statStuff *)malloc(sizeof(statStuff) * 5000);
@@ -78,14 +77,17 @@ int main (int argc, char **argv)
     // populate args with user input
     ar = parseInputArgs(argc, argv); 
 
-    //  race condition safely read all pid stat files
+    // read all pid stat files
     readAllStats(allStats);
 
-    // create tree of stats file, by their ppid
+    // create tree out of statStuff
     makeTree(allStats, outNode);
 
     // print the tree to terminal
     printTree(outNode, ar.width, ar.depth);
+
+    // ???
+    // prifit
 
     return 0;
 }
