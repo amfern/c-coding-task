@@ -23,10 +23,11 @@ void printNode(int indent, pidNode *node)
     printf("\n");
 }
 
-void printBranch(int indent, pidNode *node);
+void printBranch(int indent, int depth, pidNode *node, int indentWidth, int maxDepth);
 
-void printBranchChildren(int indent, struct pidNode **nodes)
+void printBranchChildren(int indent, int depth, struct pidNode **nodes, int indentWidth, int maxDepth)
 {
+    if(maxDepth && depth > maxDepth) return;
 
     int i = -1;
 
@@ -37,18 +38,18 @@ void printBranchChildren(int indent, struct pidNode **nodes)
 
         if (nodes[i] == NULL) break;
 
-        printBranch(indent, nodes[i]);
+        printBranch(indent, depth, nodes[i], indentWidth, maxDepth);
     }
 }
 
-void printBranch(int indent, pidNode *node)
+void printBranch(int indent, int depth, pidNode *node, int indentWidth, int maxDepth)
 {
     printNode(indent, node);
 
-    printBranchChildren(indent + 3, node -> children);
+    printBranchChildren(indent + indentWidth, depth + 1, node -> children, indentWidth, maxDepth);
 }
 
-void printTree(pidNode *node)
+void printTree(pidNode *node, int indentWidth, int maxDepth)
 {
-    printBranchChildren(0, node -> children);
+    printBranchChildren(0, 0, node -> children, indentWidth, maxDepth);
 }

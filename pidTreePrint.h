@@ -1,1 +1,1 @@
-void printTree(pidNode *node);
+void printTree(pidNode *node, int indentWidth, int maxDepth);
