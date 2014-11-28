@@ -1,6 +1,8 @@
 # Compile
 
+```
 gcc pstree.c statStuff.c pidTree.c pidTreePrint.c -o make-tree
+```
 
 # Run
 run the binary
