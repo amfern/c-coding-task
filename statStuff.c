@@ -2,9 +2,25 @@
 #include <stdlib.h>
 #include <dirent.h>
 #include <string.h>
+#include <limits.h>
 
 #include "statStuff.h"
 
+// read the maximum pid size
+int readPidMax()
+{
+    FILE *pidMaxFile;
+    int ret;
+
+    pidMaxFile = fopen("/proc/sys/kernel/pid_max", "r");
+
+    if (!pidMaxFile) return 1;
+
+    fscanf(pidMaxFile, "%d", &ret);
+    fclose(pidMaxFile);
+
+    return ret;
+}
 
 // reads the stat file of specifided pid
 int readStat (int pid, statStuff *s)
@@ -18,7 +34,7 @@ int readStat (int pid, statStuff *s)
 
     if (!proc) return 1;
 
-    ret = fscanf( proc, "%d %s %c %d", &s -> pid, s -> comm, &s -> state, &s -> ppid );
+    ret = fscanf(proc, "%d %s %c %d", &s -> pid, s -> comm, &s -> state, &s -> ppid);
     fclose(proc);
 
     return 4 == ret ? 0 : 1;
@@ -48,7 +64,7 @@ int listDir (char path[], char *list[])
 }
 
 // filters to return only numeric values in array
-void filterNumeric (char *strList[], int *numericList)
+void filterNumeric (char *strList[], int *numericList, int pidCount)
 {
     int i = -1;
     int ni = -1;
@@ -58,6 +74,9 @@ void filterNumeric (char *strList[], int *numericList)
         i++;
 
         if (strList[i] == NULL) break;
+
+        if (pidCount == i) break; // incase we reached the allocated limit
+
         if (!strspn( strList[i], "0123456789" )) continue;
 
         ni++;
@@ -65,7 +84,7 @@ void filterNumeric (char *strList[], int *numericList)
     }
 }
 
-// reads the stats file of pids and returns them in statStuff struct 
+// reads the stats file of pids and returns them in statStuff struct
 void readStats (int pids[], statStuff *outStats)
 {
     int i = -1;
@@ -86,25 +105,18 @@ void readStats (int pids[], statStuff *outStats)
 }
 
 // reads all processes in the system and returns the m in statStuff structs
-int readAllStats (statStuff *pidStuffs)
+int readAllStats (statStuff *pidStuffs, int pidCount)
 {
-    char **procDirs = (char **)malloc(sizeof(char) * 5000);
-    int *procNumerics = (int *)malloc(sizeof(int) * 5000);
+    char **procDirs = (char **)malloc(sizeof(char) * INT_MAX);
+    int *procNumerics = (int *)malloc(sizeof(int) * pidCount);
 
-    // procDirs[4999] = NULL;
-    // pidStuffs[4999] = pidStuffs[0] = nullStatStuff;
 
     if (listDir("/proc/", procDirs)) return 1;
 
-    filterNumeric(procDirs, procNumerics);
-    
-    if (-1 == procNumerics[0]) return 1;
-    
+    filterNumeric(procDirs, procNumerics, pidCount);
+
     readStats(procNumerics, pidStuffs);
-    // if (nullStatStuff == pidStuffs[0]) return 1;
-    
-    // TODO: free **procDirs here
-    // TODO: free **procDirs here
 
     return 0;
 }
+

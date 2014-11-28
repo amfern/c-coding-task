@@ -57,5 +57,7 @@ void printBranch(int indent, int depth, pidNode *node, int indentWidth, int maxD
 // can specify indentation width and maximum print depth
 void printTree(pidNode *node, int indentWidth, int maxDepth)
 {
+    indentWidth = 0 == indentWidth ? 3 : indentWidth;
+
     printBranchChildren(0, 0, node -> children, indentWidth, maxDepth);
 }

@@ -8,6 +8,6 @@ typedef struct
 
 static const statStuff nullStatStuff;
 
-int readStat (int pid, statStuff *s);
+int readPidMax();
 
-int readAllStats (statStuff *pidStuffs);
+int readAllStats (statStuff *pidStuffs, int pidCount);
