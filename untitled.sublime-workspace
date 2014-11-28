@@ -1,0 +1,2355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"return"
+			],
+			[
+				"read",
+				"readStat"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"dar",
+				"dark-green-color"
+			],
+			[
+				"for",
+				"form-container"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"activa",
+				"activate_form"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"person",
+				"persona-form"
+			],
+			[
+				"npm",
+				"npminstall"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"templ",
+				"template"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"mail",
+				"mails"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"is",
+				"isPolicyChanged"
+			],
+			[
+				"new",
+				"newVal"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"pol",
+				"policy"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"Res",
+				"Restangular"
+			],
+			[
+				"try",
+				"tryLogin"
+			],
+			[
+				"curr",
+				"currentRoute"
+			],
+			[
+				"selected",
+				"selectedRoms"
+			],
+			[
+				"date",
+				"dateTo"
+			],
+			[
+				"filt",
+				"filters"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"appl",
+				"applications"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"su",
+				"succeeded"
+			],
+			[
+				"exp",
+				"expectedMessages"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"base",
+				"baseView"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"val",
+				"value	AngularJS"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"devi",
+				"device"
+			],
+			[
+				"ele",
+				"elem"
+			],
+			[
+				"get",
+				"getText"
+			],
+			[
+				"own",
+				"owner"
+			],
+			[
+				"expec",
+				"expectedOwners"
+			],
+			[
+				"hard",
+				"hardware"
+			],
+			[
+				"excha",
+				"exchange_details"
+			],
+			[
+				"ex",
+				"exchange_details"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"set",
+				"set_exchange_account"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"device",
+				"device_policy"
+			],
+			[
+				"menu",
+				"menuSelectedPolicy"
+			],
+			[
+				"accou",
+				"accountSubPoliciesAttributes"
+			],
+			[
+				"filter",
+				"filterGroups"
+			],
+			[
+				"depa",
+				"department"
+			],
+			[
+				"owner",
+				"ownerEmail"
+			],
+			[
+				"owne",
+				"ownerEmail"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"pass",
+				"passwordInput"
+			],
+			[
+				"impo",
+				"ImportDBCommand"
+			],
+			[
+				"databas",
+				"databases"
+			],
+			[
+				"$inter",
+				"$interval	AngularJS"
+			],
+			[
+				"spe",
+				"specs"
+			],
+			[
+				"sprite",
+				"sprites"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"sen",
+				"to_send"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"polic",
+				"policy_status"
+			],
+			[
+				"splice",
+				"splicedBeforeSelectionRows"
+			],
+			[
+				"conf",
+				"gridConf"
+			],
+			[
+				"sele",
+				"selectedEntity"
+			],
+			[
+				"poli",
+				"policy_errors"
+			],
+			[
+				"mess",
+				"message_type"
+			],
+			[
+				"error",
+				"error_messages"
+			],
+			[
+				"to_",
+				"to_json"
+			],
+			[
+				"mes",
+				"messages"
+			],
+			[
+				"vali",
+				"validate"
+			],
+			[
+				"abor",
+				"abortContineusFetchConnectedState"
+			],
+			[
+				"cont",
+				"contineusFetchConnectedState"
+			],
+			[
+				"ca",
+				"cancel"
+			],
+			[
+				"ten",
+				"tenant"
+			],
+			[
+				"tena",
+				"tenant"
+			],
+			[
+				"deli",
+				"delivered"
+			],
+			[
+				"par",
+				"parse_detailed_status"
+			],
+			[
+				"dev",
+				"device"
+			],
+			[
+				"appli",
+				"application"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"succ",
+				"succeeded"
+			],
+			[
+				"app",
+				"applied"
+			],
+			[
+				"dep",
+				"departments"
+			],
+			[
+				"status",
+				"statuses"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"sudo",
+				"sudoers"
+			],
+			[
+				"suc",
+				"succeeded"
+			],
+			[
+				"e",
+				"entity"
+			],
+			[
+				"use",
+				"user"
+			],
+			[
+				"sign",
+				"sign_in"
+			],
+			[
+				"can",
+				"canBeSelected"
+			],
+			[
+				"is_",
+				"is_retired"
+			],
+			[
+				"model",
+				"model_name"
+			],
+			[
+				"devic",
+				"devices"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pstree.c",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n    // All options in here can also be specified in your project settings\n    // with a prepended \"sublimegdb_\". You probably want to\n    // have something like this in your project settings:\n    //\n    // \"settings\":\n    // {\n    //      \"sublimegdb_workingdir\": \"${folder:${project_path:your_executable_name}}\",\n    //      // NOTE: You MUST provide --interpreter=mi for the plugin to work\n    //      \"sublimegdb_commandline\": \"gdb --interpreter=mi ./your_executable_name\"\n    //      ]\n    // }\n    //\n    // ${home}, ${project_path:} and ${folder:} tokens can be used in the workingdir option.\n    //\n    // ${home} is replaced with the value of the HOME environment variable.\n    //\n    // ${project_path:} tries to find a file with the given name in all the registered project folders and\n    // returns the first file found, or the original file name if none is found.\n    // Example: ${project_path:main.cpp} tries to find a file named \"main.cpp\" relative\n    // to the current project's folders. If none is found, it is replaced with \"main.cpp\".\n    //\n    // ${folder:} is replaced with the dirname of the given path.\n    // Example: ${folder:/path/to/file} is replaced with \"/path/to\".\n    // \"workingdir\": \"/tmp\",\n    \"workingdir\": \"notset\",\n\n    // NOTE: You MUST provide --interpreter=mi for the plugin to work\n    // \"commandline\": \"gdb --interpreter=mi ./executable\",\n    \"commandline\": \"notset\",\n\n    // The command to use to run the program.\n    // If you are attaching to a remote program, you\n    // probably want to change this to -exec-continue\n    \"exec_cmd\": \"-exec-run\",\n\n    // For the larger binaries with lot of shared libraries\n    // the loading within the gdb could take much longer.\n    // Configure the thread wait timeout by setting gdb_timeout\n    \"gdb_timeout\": 20,\n\n    // Define debugging window layout (window split)\n    // first define column/row separators, then refer to them to define cells\n    \"layout\":\n    {\n        \"cols\": [0.0, 0.33, 0.66, 1.0],\n        \"rows\": [0.0, 0.75, 1.0],\n        \"cells\":\n        [ // c1 r1 c2 r2\n            [0, 0, 3, 1], // -> (0.00, 0.00), (1.00, 0.75)\n            [0, 1, 1, 2], // -> (0.00, 0.75), (0.33, 1.00)\n            [1, 1, 2, 2], // -> (0.33, 0.75), (0.66, 1.00)\n            [2, 1, 3, 2]  // -> (0.66, 0.75), (1.00, 1.00)\n        ]\n    },\n\n    // visual stuff\n    \"breakpoint_scope\": \"keyword.gdb\",\n    \"breakpoint_icon\": \"circle\",\n    \"position_scope\": \"entity.name.class\",\n    \"position_icon\": \"bookmark\",\n    \"changed_variable_scope\": \"entity.name.class\",\n    \"changed_variable_icon\": \"\",\n\n    // The group used for opening files\n    \"file_group\": 0,\n\n    \"session_group\": 1,\n    \"session_open\": true,\n\n    \"console_group\": 1,\n    \"console_open\": true,\n\n    \"variables_group\": 1,\n    \"variables_open\": true,\n\n    \"callstack_group\": 2,\n    \"callstack_open\": true,\n\n    \"registers_group\": 2,\n    \"registers_open\": false,\n\n    \"disassembly_group\": 2,\n    \"disassembly_open\": false,\n    // Set to \"intel\" for intel disassembly flavor. All other\n    // values default to using \"att\" flavor.\n    \"disassembly_flavor\": \"intel\",\n\n    \"threads_group\": 3,\n    \"threads_open\": true,\n\n    \"breakpoints_group\": 3,\n    \"breakpoints_open\": true,\n\n    // If set to true will push the layout before debugging\n    // and pop it when debugging ends\n    \"push_pop_layout\": true,\n\n    // If set to true will close the gdb views when the\n    // debugging session ends\n    \"close_views\": true,\n\n    // File to optionally write all the raw data read from and written to the gdb session and the inferior program.\n    // Setting it to \"stdout\" will write the output to the python console\n    \"debug_file\": \"stdout\",\n\n    // Add \"pending breakpoints\" for symbols that are dynamically loaded from\n    // external shared libraries\n    \"debug_ext\" : false,\n\n    // Whether to log the raw data read from and written to the gdb session and the inferior program.\n    \"debug\": true,\n\n    // Disables showing the error message dialog when something goes wrong\n    \"i_know_how_to_use_gdb_thank_you_very_much\": false\n}\n",
+			"file": "/home/ilia/.config/sublime-text-3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 4072,
+				"line_ending": "Unix",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "statStuff.c",
+			"settings":
+			{
+				"buffer_size": 402,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pstree.h",
+			"settings":
+			{
+				"buffer_size": 155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "1. collect all process statStuff\n2. traverse the statStuffs and pick only the one with existing parent \n3. traverse all process and put them into hierarchy tree(each child into his parent, it would require new struct)\n4. create simple function to read that variable and print to screen accordinlly\n    maybe use some kind of recursion\n",
+			"settings":
+			{
+				"buffer_size": 335,
+				"line_ending": "Unix",
+				"name": "1. collect all process statStuff"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa list",
+				"Package Control: List Packages"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"nginx",
+				"Set Syntax: nginx"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"pakca in",
+				"Package Control: Install Package"
+			],
+			[
+				"git dif",
+				"Git: Diff All Files"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"ss",
+				"Set Syntax: XSL"
+			],
+			[
+				"scs",
+				"Set Syntax: CSS"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"git ame",
+				"Git: Amend Commit"
+			],
+			[
+				"ame",
+				"Git: Amend Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git his",
+				"Git: Commit history"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"git curr",
+				"Git: Log Current File"
+			],
+			[
+				"commo",
+				"Git: Commit history"
+			],
+			[
+				"git cu",
+				"Git: Custom Command"
+			],
+			[
+				"histor",
+				"Git: Commit history"
+			],
+			[
+				"csss",
+				"Convert Case: separate/with/slash"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"iit",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"itt",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"gti st",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git am",
+				"Git: Amend Commit"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitk",
+				"Git: Gitk"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git lof",
+				"Git: Log Current File"
+			],
+			[
+				"gi dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git comi",
+				"Git: Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"UPP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git hcec",
+				"Git: Change Branch"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"chan",
+				"Git: Change Branch"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"git stas",
+				"Git: Stash Apply"
+			],
+			[
+				"git stash ",
+				"Git: Stash Apply"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git cmo",
+				"Git: Commit"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git como",
+				"Git: Commit history"
+			],
+			[
+				"stash ",
+				"Git: Stash Apply"
+			],
+			[
+				"git stash",
+				"Git: Stash Apply"
+			],
+			[
+				"cus",
+				"Git: Custom Command"
+			],
+			[
+				"git log cu",
+				"Git: Log Current File"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"gti stat",
+				"Git: Status"
+			],
+			[
+				"git checkl",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitad",
+				"Git: Add..."
+			],
+			[
+				"git new",
+				"Git: New Branch"
+			],
+			[
+				"git chan",
+				"Git: Change Branch"
+			],
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"git change",
+				"Git: Change Branch"
+			],
+			[
+				"cusom",
+				"Git: Custom Command"
+			],
+			[
+				"custom",
+				"Git: Custom Command"
+			],
+			[
+				"git chanc",
+				"Git: Change Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"it ad",
+				"Git: Add Current File"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"chang",
+				"Git: Change Branch"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"checkout ",
+				"Git: Checkout Current File"
+			],
+			[
+				"git ba",
+				"Git: Blame"
+			],
+			[
+				"git cus",
+				"Git: Custom Command"
+			],
+			[
+				"git rese",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"reset",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"cha",
+				"Git: Change Branch"
+			],
+			[
+				"git ch",
+				"Git: Commit history"
+			],
+			[
+				"change ",
+				"Git: Change Branch"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"git  check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git pusc",
+				"Git: Push Current Branch"
+			],
+			[
+				"git ss",
+				"Git: Status"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"gti chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git l",
+				"Git: Log Current File"
+			],
+			[
+				"push cu",
+				"Git: Push Current Branch"
+			],
+			[
+				"curre",
+				"Git: Log Current File"
+			],
+			[
+				"git loc",
+				"Git: Log Current File"
+			],
+			[
+				"git puhs",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitp us",
+				"Git: Push Current Branch"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ilia/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ilia/Documents/coding-task/statStuff.c",
+		"/home/ilia/Documents/coding-task/pstree.h",
+		"/home/ilia/Documents/coding-task/pidStat.c",
+		"/home/ilia/Documents/coding-task/hello.c",
+		"/home/ilia/Documents/coding-task/hellof.c",
+		"/home/ilia/Documents/coding-task/hello.h",
+		"/home/ilia/Documents/hello.c",
+		"/home/ilia/Documents/persona-market/app/_activate_form.jade",
+		"/home/ilia/Documents/persona-market/app/scripts/main.js",
+		"/home/ilia/Documents/persona-market/app/activate_form_layout.jade",
+		"/home/ilia/Documents/persona-market/package.json",
+		"/home/ilia/Documents/persona-market/app/styles/main.scss",
+		"/home/ilia/Documents/persona-market/Gruntfile.js",
+		"/home/ilia/Documents/persona-market/server/server.js",
+		"/home/ilia/Documents/persona-market/.tmp/activate_form_layout.html",
+		"/home/ilia/Documents/persona-market/.tmp/activate_finish_view.html",
+		"/home/ilia/Documents/persona-market/app/activate_finish_view.jade",
+		"/home/ilia/Documents/persona-market/app/_persona.jade",
+		"/home/ilia/Documents/persona-market/app/index.jade",
+		"/home/ilia/Documents/persona-market/app/dod_activate_finish.jade",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-wiredep/node_modules/wiredep/node_modules/bower-config/node_modules/mout/object/forIn.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-contrib-connect/node_modules/connect/examples/public/form.html",
+		"/home/ilia/Documents/persona-market/.tmp/_persona_base.html",
+		"/home/ilia/Documents/persona-market/app/wallet_activate_finish.jade",
+		"/home/ilia/Documents/persona-market/app/hidden_activate_finish.jade",
+		"/home/ilia/Documents/persona-market/app/_persona_base.jade",
+		"/home/ilia/Documents/persona-market/app/_personas.jade",
+		"/home/ilia/Documents/persona-market/node_modules/email-templates/node_modules/juice2/node_modules/jsdom/node_modules/cssstyle/lib/properties/webkitPerspectiveOrigin.js",
+		"/home/ilia/Documents/persona-market/.tmp/_persona.html",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/spellcheck-attribute.json",
+		"/home/ilia/Documents/persona-market/bower_components/HTML5-Reset/assets/js/libs/prefixfree.min.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/postcss/node_modules/js-base64/package.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-sass/node_modules/node-sass/libsass/base64vlq.cpp",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/lib/hacks/background-size.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-contrib-connect/node_modules/connect/examples/basicAuth.js",
+		"/home/ilia/Documents/persona-market/bower.json",
+		"/home/ilia/Documents/persona-market/app/layout.jade",
+		"/home/ilia/Documents/persona-market/node_modules/email-templates/node_modules/juice2/node_modules/superagent/node_modules/formidable/test/fixture/js/workarounds.js",
+		"/home/ilia/Documents/persona-market/node_modules/winston/test/transports/file-open-test.js",
+		"/home/ilia/Documents/persona-market/dist/favicon.ico.gz",
+		"/home/ilia/Documents/persona-market/.tmp/styles/main.css",
+		"/home/ilia/Documents/persona-market/app/work_activate_finish.jade",
+		"/home/ilia/Documents/persona-market/app/dod_activate_form.jade",
+		"/home/ilia/Documents/persona-market/app/work_activate_form.jade",
+		"/home/ilia/Documents/persona-market/app/activate_view.jade",
+		"/home/ilia/Documents/persona-market/app/hidden_activate_form.jade",
+		"/home/ilia/Documents/persona-market/app/wallet_activate_form.jade",
+		"/home/ilia/Documents/persona-market/.tmp/dod_activate_form.html",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-gifsicle/node_modules/gifsicle/node_modules/bin-build/node_modules/download/node_modules/decompress-unzip/node_modules/temp-write/node_modules/uuid/benchmark/benchmark-native.c",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-gifsicle/node_modules/gifsicle/node_modules/bin-build/node_modules/download/node_modules/ware/node_modules/wrap-fn/components/jkroso-type@1.1.0/index.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-gifsicle/node_modules/gifsicle/node_modules/bin-build/node_modules/download/node_modules/decompress-tar/node_modules/tar-stream/extract.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-gifsicle/node_modules/gifsicle/node_modules/bin-build/node_modules/download/node_modules/decompress-tar/node_modules/strip-dirs/node_modules/minimist/test/whitespace.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/download.json",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-wiredep/node_modules/wiredep/node_modules/bower-config/node_modules/mout/date/dayOfTheYear.js",
+		"/home/ilia/Documents/persona-market/.tmp/_activate_form.html",
+		"/home/ilia/Documents/persona-market/app/activate_form_finish_layout.jade",
+		"/home/ilia/Documents/persona-market/.tmp/activate_form_finish_layout.html",
+		"/home/ilia/Documents/persona-market/node_modules/jshint-stylish/node_modules/text-table/test/ansi-colors.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-ssh/AUTHORS",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-contrib-jshint/node_modules/jshint/data/non-ascii-identifier-part-only.js",
+		"/home/ilia/Documents/persona-market/.tmp/persona_base.html",
+		"/home/ilia/Documents/persona-market/.tmp/persona_layout.html",
+		"/home/ilia/Documents/persona-market/.tmp/persona_ךשטםוא.html",
+		"/home/ilia/Documents/persona-market/.tmp/personas.html",
+		"/home/ilia/Documents/persona-market/node_modules/email-templates/node_modules/juice2/node_modules/jsdom/node_modules/cssstyle/lib/properties/resize.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-mocha/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/node_modules/request/node_modules/bl/node_modules/readable-stream/node_modules/inherits/inherits_browser.js",
+		"/home/ilia/Documents/persona-market/.tmp/index.html",
+		"/home/ilia/Documents/persona-market/.tmp/layout.html",
+		"/home/ilia/Documents/persona-market/app/work_form.jade",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/css-variables.json",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/link-icon-svg.json",
+		"/home/ilia/Documents/persona-market/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/action_container.js",
+		"/home/ilia/Documents/persona-market/app/persona_layout.jade",
+		"/home/ilia/Documents/persona-market/dist/scripts/main.js",
+		"/home/ilia/Documents/persona-market/dist/styles/main.css",
+		"/home/ilia/Documents/persona-market/node_modules/email-templates/node_modules/juice2/node_modules/jsdom/node_modules/cssstyle/lib/properties/webkitTextEmphasis.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/region-usage-json/PW.json",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-wiredep/node_modules/wiredep/node_modules/bower-config/node_modules/mout/lang/isNaN.js",
+		"/home/ilia/Documents/persona-market/server/mailer.js",
+		"/home/ilia/Documents/persona-market/server/nginx.conf",
+		"/home/ilia/Documents/persona-market/node_modules/email-templates/node_modules/juice2/node_modules/jsdom/node_modules/cssstyle/lib/properties/marker.js",
+		"/home/ilia/Documents/persona-market/node_modules/email-templates/node_modules/juice2/node_modules/jsdom/node_modules/cssstyle/lib/properties/markerStart.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt/node_modules/glob/test/mark.js",
+		"/home/ilia/Documents/persona-market/node_modules/nodemailer/node_modules/hyperquest/example/many_request.js",
+		"/home/ilia/Documents/persona-market/server/config.js",
+		"/home/ilia/Documents/persona-market/server/templates/wallet/html.jade",
+		"/home/ilia/Documents/persona-market/server/templates/dod/html.jade",
+		"/home/ilia/Documents/persona-market/server/templates/hidden/html.jade",
+		"/home/ilia/Documents/persona-market/server/templates/work/html.jade",
+		"/home/ilia/Documents/persona-market/.grunt-ssh",
+		"/home/ilia/Documents/persona-market/dist/scripts/vendor.js",
+		"/home/ilia/Documents/persona-market/node_modules/email-templates/node_modules/juice2/node_modules/jsdom/node_modules/cssstyle/lib/properties/volume.js",
+		"/home/ilia/Documents/persona-market/server/templates/activate_layout.jade",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-wiredep/node_modules/wiredep/node_modules/bower-config/node_modules/mout/array/unique.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-sass/node_modules/node-sass/libsass/units.cpp",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/user-select-none.json",
+		"/home/ilia/Documents/persona-market/node_modules/express/lib/utils.js",
+		"/home/ilia/Documents/persona-market/dist/index.html",
+		"/home/ilia/Documents/persona-market/node_modules/email-templates/lib/main.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt/node_modules/findup-sync/node_modules/glob/test/new-glob-optional-options.js",
+		"/home/ilia/Documents/persona-market/server/package.json",
+		"/home/ilia/Documents/persona-market/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/node_modules/underscore.string/test/test_underscore/vendor/jquery.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/postcss/node_modules/js-base64/test/yoshinoya.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt/node_modules/js-yaml/lib/js-yaml/type/omap.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-mocha/node_modules/mocha/node_modules/jade/testing/index.jade",
+		"/home/ilia/Documents/persona-market/dist/.htaccess",
+		"/home/ilia/Documents/persona-market/node_modules/apache-server-configs/dist/.htaccess",
+		"/home/ilia/Documents/persona-market/.gitignore",
+		"/home/ilia/Documents/persona-market/node_modules/express/History.md",
+		"/home/ilia/Documents/persona-market/node_modules/grunt/node_modules/hooker/test/hooker_test.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-contrib-htmlmin/node_modules/html-minifier/node_modules/uglify-js/node_modules/source-map/test/source-map/test-api.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-wiredep/node_modules/wiredep/lib/inject-dependencies.js",
+		"/home/ilia/Documents/persona-market/bower_components/jquery/src/effects.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-contrib-cssmin/node_modules/clean-css/lib/selectors/empty-removal.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-contrib-connect/node_modules/connect/examples/rollingSession.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-svgmin/node_modules/svgo/node_modules/sax/test/stray-ending.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/css-opacity.json",
+		"/home/ilia/Documents/persona-market/node_modules/grunt/node_modules/grunt-legacy-log/index.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/input-number.json",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/region-usage-json/GI.json",
+		"/home/ilia/Documents/persona-market/node_modules/grunt/node_modules/.bin/nopt",
+		"/home/ilia/Documents/persona-market/server/templates/template.html.jade",
+		"/home/ilia/Documents/persona-market/test/spec/server_activate.js",
+		"/home/ilia/Documents/persona-market/test/index.html",
+		"/home/ilia/Documents/persona-market/test/spec/test.js",
+		"/home/ilia/Documents/persona-market/test/spec/server/server_activate.js",
+		"/home/ilia/Documents/persona-market/node_modules/grunt-usemin/lib/file.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"*.jade",
+			"",
+			"/home/ilia/Documents/persona-market/server/templates",
+			"",
+			"*.rb",
+			"",
+			"*.scss",
+			"",
+			"*.haml",
+			"*.scss",
+			"*.haml",
+			"",
+			"*.scss",
+			"..scss",
+			"",
+			"*.js",
+			"",
+			"*.scss",
+			"",
+			"*.js",
+			"",
+			"*.scss",
+			"",
+			"*.haml",
+			"",
+			"*.scss",
+			"",
+			"/home/ilia/Documents/manager-main/app/assets/javascripts",
+			"",
+			"*.scss",
+			"*.haml",
+			"",
+			"*.scss",
+			"",
+			"  /     %i.sprite-action-help",
+			"",
+			"*.js",
+			"",
+			"*.rb",
+			"",
+			"*.scss",
+			"*.sass",
+			"",
+			"*.haml",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.haml",
+			"haml",
+			"",
+			"/home/ilia/Documents/manager-main/spec/javascripts/integration/helpers",
+			"",
+			"*.rb",
+			"",
+			"*.js",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.haml",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.haml",
+			"*.scss",
+			"",
+			"*.haml",
+			"",
+			"*.haml",
+			"",
+			"/home/ilia/Documents/manager-main/app/assets/templates/users",
+			"/home/ilia/Documents/manager-main/app/assets/templates/device_policies",
+			"",
+			"*.scss",
+			"*.sass",
+			"*.haml",
+			"",
+			"*.rb",
+			"",
+			"/home/ilia/Documents/manager-main/app/assets/stylesheets",
+			"/home/ilia/Documents/manager-main/app/assets/",
+			"/home/ilia/Documents/manager-main/app/assets/stylesheets",
+			"/home/ilia/Documents/manager-main/app/assets/",
+			"/home/ilia/Documents/manager-main/app/assets/javascripts",
+			"/home/ilia/Documents/manager-main/app/assets/javascript",
+			"/home/ilia/Documents/manager-main/app/assets/templates",
+			"/home/ilia/Documents/manager-main/app/assets/",
+			"/home/ilia/Documents/manager-main/app/assets/stylesheets",
+			"/home/ilia/Documents/manager-main/app/assets/templates",
+			"/home/ilia/Documents/manager-main/app/assets/stylesheets",
+			"/home/ilia/Documents/manager-main/app/assets/",
+			"/home/ilia/Documents/manager-main/app/assets/stylesheets",
+			"",
+			"/home/ilia/Documents/manager-main/spec/javascripts/integration/",
+			"/home/ilia/Documents/manager-main/spec/javascripts/integration/specs",
+			"/home/ilia/Documents/manager-main/spec/javascripts/integration/specs/devices",
+			"/home/ilia/Documents/manager-main/spec/javascripts/integration/specs",
+			"/home/ilia/Documents/manager-main/spec/javascripts/integration",
+			"",
+			"/home/ilia/Documents/manager-main/spec/javascripts/integration",
+			"",
+			"*.haml",
+			"",
+			"*.rb",
+			"",
+			"/home/ilia/Documents/manager-main/spec",
+			"/home/ilia/Documents/manager-main/spec/requests",
+			"",
+			"*.haml",
+			"",
+			"*.scss",
+			"*.sass",
+			"",
+			"*.haml",
+			"haml",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"",
+			"/home/ilia/Documents/manager-main/spec",
+			"",
+			"/home/ilia/Documents/manager-main/spec/requests"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"readStat",
+			"statStuff",
+			"pidStat",
+			"readStat",
+			"statStuff",
+			"statStuff’",
+			"int",
+			"&",
+			"s",
+			">",
+			"/",
+			"%",
+			"*",
+			"}",
+			"{",
+			";",
+			"    ",
+			"//",
+			"{",
+			"\"",
+			"hello",
+			"ang",
+			"restart",
+			"=",
+			"onclick",
+			"_persona",
+			"#hidden_persona",
+			"active",
+			".buy-button",
+			"dark-greed-button",
+			"green",
+			"$green-color",
+			"$greed-color",
+			"$dark-green-colo",
+			"$dark-greeb-colo",
+			"$dark-greed-colo",
+			"$dark-greed-color #7ED321",
+			"$dark-greed-color",
+			"buy-button",
+			"person",
+			"inner-for",
+			".buy-button",
+			"line-",
+			".title",
+			"justify-content",
+			"light",
+			"buy",
+			"line-height",
+			"form-con",
+			"work",
+			"a.close(href=\"/\") &times",
+			"+persona",
+			"header",
+			"+persona(",
+			"400px",
+			".title",
+			".persona",
+			"buy",
+			"optionsRadios",
+			"label",
+			"+",
+			"label",
+			"15px",
+			"      .form-control",
+			".input",
+			"    float: left;",
+			"persona",
+			"vmax",
+			"(href=\"javascript: void(0)\")",
+			"\"javascript: void(0)\"",
+			"href=\"#\"",
+			"href",
+			"=2E",
+			"=22",
+			"=2E",
+			"=22",
+			"=3D",
+			"defaul",
+			"3D=22",
+			"hostname",
+			"hostna",
+			"configurations.",
+			"resta",
+			"deploy",
+			"server",
+			"deploy",
+			"':",
+			":",
+			"client",
+			"MIIFqTCCBJGgAwIBAgIQU84lVfCfhdfI0B4Uo20XGTANBgkqhkiG9w0BAQsFADCB",
+			"se",
+			"activateButton",
+			"You will be billed only when you complete the",
+			"(style=\"font-family:arial,sans-serif;font-size:13px;line-height:normal\")",
+			"(style=\"background-image:initial;background-repeat:initial\")",
+			"(style=\"font-family:arial,sans-serif;font-size:13px;line-height:normal\")",
+			"defaultTransport",
+			"'/",
+			"<%= config.dist %>/",
+			"main",
+			"rev",
+			"work",
+			"<%= config.dist %>/",
+			"filerev",
+			"file",
+			"copy",
+			"subject",
+			"console.log",
+			"info",
+			"info:",
+			"sendOne",
+			"templateName",
+			"templateName was not defined",
+			"templateName",
+			"= r",
+			"=",
+			"config.",
+			"<%= config.dist %>",
+			"copy:",
+			"copy",
+			"filere",
+			"filerev",
+			"image",
+			".css",
+			"rev",
+			"revfilerev",
+			"rev",
+			"grunt-filerev"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"baseUrl",
+			"modal-close-btn.btn-link.secondary-btn{:href => \"\", ",
+			"contentSyncCustom",
+			"",
+			"%span{\"ng-include\" => \"'/assets/templates/partials/_modal_close.html'\", \"element-replace\" => \"\"}",
+			".gridStyle#grid-content",
+			"%input#modal-submit-btn.btn.btn-cellrox{:type => :submit",
+			"#modal-close-btn.btn-link.secondary-btn",
+			"element-replace",
+			"elementReplace",
+			"opacity: .72;",
+			"filter: alpha(opacity=72);",
+			".nav-actions.navbar-actions",
+			"  /     %i.sprite-action-help",
+			"$scope.staticEntities",
+			"hdw",
+			"/root/users/sign_in",
+			".list-unstyled",
+			"info-panel-items",
+			"-ms-flex-pack: center;",
+			"align-items: center;\n-ms-flex-align: center;",
+			"justify-content: center;\n-ms-flex-pack: center;",
+			"display: flex;\ndisplay: -ms-flexbox;",
+			"  / .navbar-text.navbar-right\n  /   %a.navbar-link\n  /     %i.sprite-action-add\n  /     Help",
+			"%a.btn-link.secondary-btn{\"ng-click\" => \"close(form)\"} Close",
+			"",
+			"btn-sm",
+			".modal-body",
+			"%select#type.form-control",
+			".form-control{:type => :email, \"ng-model\"",
+			".form-control{:type => :password, \"ng-model\" =>",
+			"",
+			"%input.btn.btn-cellrox{:type => :submit",
+			".form-control{:type => :text, \"ng-model\"",
+			".col-sm-8",
+			"%label.control-label.col-sm-3{",
+			".form-group",
+			".form-error",
+			"modal-lg",
+			"modal-sm",
+			".col-md-offset-",
+			".col-md-",
+			".row",
+			"",
+			"browser.sleep(5000);",
+			"browser.sleep(1000);",
+			"Devices",
+			"devices",
+			"\"",
+			"URL_REGEXP",
+			"",
+			":",
+			":[{",
+			"{",
+			"\"",
+			"development_",
+			"development",
+			"development_",
+			"development",
+			"\"",
+			"",
+			"ActionSetContentSync",
+			"null",
+			".tmpDirs",
+			".sprite-icon-calendar",
+			"          .sprite-warnning-pointer\n          .sprite-warning",
+			".sprite-header-conn",
+			".sprite-arrow",
+			".sprite-ok",
+			".sprite-plus",
+			"\"",
+			"development",
+			"development_",
+			"_development",
+			"response",
+			"_.delay($scope.fetchEntities, $scope.lazyDelay);",
+			".html",
+			"",
+			"adminEmail",
+			"customMessageEnabled",
+			"crawlerEnabled",
+			"Restangular."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pstree.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/ilia/.config/sublime-text-3/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4072,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4072,
+								4072
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "statStuff.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								401,
+								401
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pstree.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"auto_name": "1. collect all process statStuff",
+							"spell_check": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 505.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 573.0
+	},
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"actiformjade",
+				"app/_activate_form.jade"
+			],
+			[
+				"mainjs",
+				"app/scripts/main.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"server",
+				"server/server.js"
+			],
+			[
+				"actiformjad",
+				"app/_activate_form.jade"
+			],
+			[
+				"index",
+				"app/index.jade"
+			],
+			[
+				"finisjade",
+				"app/activate_finish_view.jade"
+			],
+			[
+				"persona",
+				"app/_persona.jade"
+			],
+			[
+				"main",
+				"app/styles/main.scss"
+			],
+			[
+				"personabase",
+				"app/_persona_base.jade"
+			],
+			[
+				"person",
+				".tmp/_persona_base.html"
+			],
+			[
+				"lay",
+				"app/layout.jade"
+			],
+			[
+				"formjade",
+				"app/activate_form_layout.jade"
+			],
+			[
+				"mainscss",
+				"app/styles/main.scss"
+			],
+			[
+				"activatefini",
+				"app/activate_finish_view.jade"
+			],
+			[
+				"dodactivate",
+				"app/dod_activate_form.jade"
+			],
+			[
+				"_activate",
+				"app/_activate_form.jade"
+			],
+			[
+				"activateform",
+				"app/activate_form_layout.jade"
+			],
+			[
+				"personabas",
+				"app/_persona_base.jade"
+			],
+			[
+				"pers",
+				"app/_persona.jade"
+			],
+			[
+				"layo",
+				"app/layout.jade"
+			],
+			[
+				"mainscs",
+				"app/styles/main.scss"
+			],
+			[
+				"maincs",
+				".tmp/styles/main.css"
+			],
+			[
+				"layout",
+				"app/layout.jade"
+			],
+			[
+				"per",
+				"app/_persona.jade"
+			],
+			[
+				"ngin",
+				"server/nginx.conf"
+			],
+			[
+				"marke",
+				"node_modules/email-templates/node_modules/juice2/node_modules/jsdom/node_modules/cssstyle/lib/properties/marker.js"
+			],
+			[
+				"confi",
+				"server/config.js"
+			],
+			[
+				"mail",
+				"server/mailer.js"
+			],
+			[
+				"conf",
+				"server/config.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"ser",
+				"server/server.js"
+			],
+			[
+				"mailer",
+				"server/mailer.js"
+			],
+			[
+				"indeja",
+				"app/index.jade"
+			],
+			[
+				"config",
+				"server/config.js"
+			],
+			[
+				"inde",
+				"app/index.jade"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				".hta",
+				"dist/.htaccess"
+			],
+			[
+				"indejad",
+				"app/index.jade"
+			],
+			[
+				"idnex",
+				".tmp/index.html"
+			],
+			[
+				"perso",
+				"app/_persona.jade"
+			],
+			[
+				"indexjade",
+				"app/index.jade"
+			],
+			[
+				"layou",
+				"app/layout.jade"
+			],
+			[
+				"layja",
+				"app/layout.jade"
+			],
+			[
+				"maiscss",
+				"app/styles/main.scss"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"budnl",
+				"app/models/sub_policies/bundle_sub_policy.rb"
+			],
+			[
+				"devicepoli",
+				"app/models/device_policy.rb"
+			],
+			[
+				"infopaneldevicein",
+				"app/assets/templates/device_policies/_info_panel_device_info.html.haml"
+			],
+			[
+				"infopanelhaml",
+				"app/assets/templates/device_policies/_devices_info_panel.html.haml"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"test",
+				"config/deploy/testing.rb"
+			],
+			[
+				"admin",
+				"app/models/users/admin.rb"
+			],
+			[
+				"userrb",
+				"app/models/user.rb"
+			],
+			[
+				"appliscs",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"testing",
+				"config/deploy/testing.rb"
+			],
+			[
+				"nginx",
+				"config/recipes/nginx/nginx.conf"
+			],
+			[
+				"changeass",
+				"db/migrate/20140216153826_change_assets_path.rb"
+			],
+			[
+				"impo",
+				"lib/tasks/import_to_elasticsearch.rake"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"pagesindex",
+				"spec/javascripts/integration/helpers/pages/index.js"
+			],
+			[
+				"package.json",
+				"package.json.orig"
+			],
+			[
+				"spec/javascripts/integration/helpers/pages/index.js",
+				"spec/javascripts/integration/helpers/pages/index.js"
+			],
+			[
+				"spec/javascripts/integration/index.js",
+				"spec/javascripts/integration/index.js"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"routejs",
+				"app/assets/javascripts/config/router.js"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"viewcon",
+				"app/assets/javascripts/controllers/view_controller.js"
+			],
+			[
+				"bowe",
+				"bower.json"
+			],
+			[
+				"bwoer",
+				"bower.json"
+			],
+			[
+				"mailhea",
+				"app/views/partials/_email_header.haml"
+			],
+			[
+				"font",
+				"app/assets/stylesheets/fonts.scss"
+			],
+			[
+				"acco",
+				"app/assets/stylesheets/accordion.scss"
+			],
+			[
+				"devicepoliinfo",
+				"app/assets/templates/device_policies/_devices_info_panel.html.haml"
+			],
+			[
+				"_wall",
+				"app/assets/templates/device_policies/_wall.html.haml"
+			],
+			[
+				"shar",
+				"app/assets/templates/device_policies/_shar.html.haml"
+			],
+			[
+				"_sec",
+				"app/assets/templates/device_policies/_sec.html.haml"
+			],
+			[
+				"_acc",
+				"app/assets/templates/device_policies/_acc.html.haml"
+			],
+			[
+				"_vpn",
+				"app/assets/templates/device_policies/_vpn.html.haml"
+			],
+			[
+				"_wifi",
+				"app/assets/templates/device_policies/_wifi.haml"
+			],
+			[
+				"appliindex",
+				"app/assets/templates/applications/index.html.haml"
+			],
+			[
+				"devicepolinew",
+				"app/assets/templates/device_policies/new.html.haml"
+			],
+			[
+				"_app",
+				"app/assets/templates/device_policies/_apps.html.haml"
+			],
+			[
+				"deviceconjs",
+				"app/assets/javascripts/controllers/devices/devices_controller.js"
+			],
+			[
+				"devicepoliactio",
+				"app/assets/templates/device_policies/_action_forms.html.haml"
+			],
+			[
+				"side",
+				"app/assets/templates/device_policies/_sidebar.html.haml"
+			],
+			[
+				"poliindex",
+				"app/assets/templates/device_policies/index.html.haml"
+			],
+			[
+				"poliham",
+				"app/assets/templates/device_policies/_policies.html.haml"
+			],
+			[
+				"emailfo",
+				"app/views/partials/_email_footer.haml"
+			],
+			[
+				"partiema",
+				"app/views/partials/_email_header.haml"
+			],
+			[
+				"applieddevicescontroller",
+				"app/assets/javascripts/controllers/device_policies/applied_devices_controller.js"
+			],
+			[
+				"policonjs",
+				"app/assets/javascripts/controllers/device_policies/device_policies_controller.js"
+			],
+			[
+				"policon",
+				"app/controllers/device_policies_controller.rb"
+			],
+			[
+				"viewmessa",
+				"app/assets/templates/partials/_view_info_panel_messages.html.haml"
+			],
+			[
+				"deviceappliha",
+				"app/assets/templates/devices/applications.html.haml"
+			],
+			[
+				"infopaneldeivce",
+				"app/assets/templates/device_policies/_info_panel_device_info.html.haml"
+			],
+			[
+				"views",
+				"app/assets/templates/partials/_view_sidebar.html.haml"
+			],
+			[
+				"_form",
+				"app/assets/templates/owners/_form.html.haml"
+			],
+			[
+				"lock",
+				"spec/javascripts/integration/specs/devices/lock.js"
+			],
+			[
+				"infopa",
+				"app/assets/stylesheets/info_panel.scss"
+			],
+			[
+				"actioformha",
+				"app/assets/templates/devices/_action_forms.html.haml"
+			],
+			[
+				"bas",
+				"app/assets/stylesheets/base.scss"
+			],
+			[
+				"devicepoliindex",
+				"app/assets/templates/device_policies/index.html.haml"
+			],
+			[
+				"viewha",
+				"app/assets/templates/partials/_view.html.haml"
+			],
+			[
+				"usernav",
+				"app/assets/templates/partials/header/_user_nav.html.haml"
+			],
+			[
+				"policss",
+				"app/assets/stylesheets/policies.scss"
+			],
+			[
+				"devicepoliactioha",
+				"app/assets/templates/device_policies/_action_forms.html.haml"
+			],
+			[
+				"glo",
+				"app/models/global_asset.rb"
+			],
+			[
+				"deployser",
+				"config/deploy/server.rb"
+			],
+			[
+				"confidepl",
+				"config/deploy.rb"
+			],
+			[
+				"cap",
+				"Capfile"
+			],
+			[
+				"bow",
+				"bower.json"
+			],
+			[
+				"applijs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"infopane",
+				"app/assets/stylesheets/info_panel.scss"
+			],
+			[
+				"owneractiofo",
+				"app/assets/templates/owners/_action_forms.html.haml"
+			],
+			[
+				"deviceactiofor",
+				"app/assets/templates/device_policies/_action_forms.html.haml"
+			],
+			[
+				"polic",
+				"app/assets/templates/device_policies/_policies.html.haml"
+			],
+			[
+				"actioformhaml",
+				"app/assets/templates/device_policies/_action_forms.html.haml"
+			],
+			[
+				"poliactiofo",
+				"app/assets/templates/device_policies/_action_forms.html.haml"
+			],
+			[
+				"deivcepoliindex",
+				"app/assets/templates/device_policies/index.html.haml"
+			],
+			[
+				"sdie",
+				"app/assets/templates/device_policies/_sidebar.html.haml"
+			],
+			[
+				"polisid",
+				"app/assets/templates/device_policies/_sidebar.html.haml"
+			],
+			[
+				"icon",
+				"app/assets/stylesheets/icons.scss"
+			],
+			[
+				"poliside",
+				"app/assets/templates/device_policies/_sidebar.html.haml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 458.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,11 @@
+{
+    "folders": [{
+        "follow_symlinks": true,
+        "path": "."
+    }],
+
+    "settings": {
+        "sublimegdb_workingdir": "${folder:${project_path:./pstree}}",
+        "sublimegdb_commandline": "gdb --interpreter=mi ./pstree"
+    }
+}
